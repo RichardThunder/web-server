@@ -1,0 +1,13 @@
+"/Users/richard/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/CLion.app/Contents/bin/cmake/mac/bin/cmake" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=/Users/richard/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/CLion.app/Contents/bin/ninja/mac/ninja" -G Ninja -S /Users/richard/code/WebServer -B /Users/richard/code/WebServer/cmake-build-debug
+CMake Deprecation Warning at CMakeLists.txt:1 (cmake_minimum_required):
+  Compatibility with CMake < 2.8.12 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value or use a ...<max> suffix to tell
+  CMake that the project does not need compatibility with older versions.
+
+
+-- CXX_FLAGS = -g -Wall -std=c++11 -D_PTHREADS -Wno-unused-parameter -O0
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/richard/code/WebServer/cmake-build-debug
